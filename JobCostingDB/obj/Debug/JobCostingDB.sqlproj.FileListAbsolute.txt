@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\bin\Debug\JobCostingDB.dacpac
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\bin\Debug\JobCostingDB.dll
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\bin\Debug\JobCostingDB.pdb
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\JobCostingDB.sqlproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\JobCostingDB.dll
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\JobCostingDB.pdb
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\Model.xml
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\refactor.xml
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\postdeploy.sql
+C:\Users\Lenovo\Documents\CS\job-costing\JobCostingAPI\JobCostingDB\obj\Debug\predeploy.sql

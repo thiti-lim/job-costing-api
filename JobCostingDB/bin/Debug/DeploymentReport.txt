@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[customer] (Table)
+       [dbo].[p_customer_delete] (Procedure)
+       [dbo].[p_customer_get] (Procedure)
+       [dbo].[p_customer_get_all] (Procedure)
+       [dbo].[p_customer_insert] (Procedure)
+       [dbo].[p_customer_update] (Procedure)
+
+** Supporting actions
